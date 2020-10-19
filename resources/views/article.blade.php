@@ -6,7 +6,8 @@
     <title>About</title>
 </head>
 <body>
-    <h1>This is About Page</h1>
+    <h1>This is Article Page</h1>
+    <a href="/article/1">Go to first article</a>
     <a href="/">Back to home page</a>
 </body>
 </html>

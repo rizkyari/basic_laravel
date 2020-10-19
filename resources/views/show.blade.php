@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
+    <title>Shows</title>
 </head>
 <body>
-    <h1>Welcome</h1>
-    <a href="/article">Go to article</a>
+    <h1>First article</h1>
+    <a href="/article">Back to article</a>
+    <a href="/">Back to home</a>
 </body>
 </html>
