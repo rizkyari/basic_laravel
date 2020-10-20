@@ -8,11 +8,11 @@ class ArticleController extends Controller
 {
     public function index()
     {
-        return view('article');
+        return view('article.article');
     }
 
     public function show($slug)
     {
-        return view('show', ['title' => $slug]);
+        return view('article.show', ['title' => $slug]);
     }
 }
